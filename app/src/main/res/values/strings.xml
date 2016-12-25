@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">SnapBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="show_password">Show Password</string>
+    <plurals name="likes_count">
+        <item quantity="one">%d like</item>
+        <item quantity="other">%d likes</item>
+    </plurals>
+    <string name="title_activity_likers">LikersActivity</string>
 </resources>

@@ -58,5 +58,4 @@ public class DatabaseHandler {
         return mSharedPreferences.getString(KEY_TEAM,null);
     }
 
-
 }
